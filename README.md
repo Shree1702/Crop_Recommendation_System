@@ -9,8 +9,9 @@ Python 3.x
 Pandas
 NumPy
 Scikit-learn
+Tkinter
 You can install the required dependencies using pip:
-pip install pandas numpy scikit-learn
+pip install pandas numpy scikit-learn tkinter
 
 Dataset
 The project uses a dataset containing historical data of various crops and their corresponding characteristics, such as temperature, humidity, rainfall, soil pH, etc. The dataset is stored in a CSV file named crop_data.csv.
